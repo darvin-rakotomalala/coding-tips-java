@@ -1,4 +1,4 @@
-## Conseils de codage Java 8/11 | Spring Boot
+## Conseils de codage Java 8+ | Spring Boot
 Dans ce repo, nous allons voirs quelques conseils de codage Java pour écrire un meilleur code et des fonctionnalités Java que nous pouvons utiliser pour résoudre des problèmes courants.
 
 *Notez que je suis toujours dans le processus d'apprentissage - probablement sans fin :)-*
